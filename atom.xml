@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kent.github.io/atom.xml" rel="self"/>
   <link href="http://kent.github.io/"/>
-  <updated>2015-03-19T09:17:07-04:00</updated>
+  <updated>2015-03-19T09:33:44-04:00</updated>
   <id>http://kent.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,225 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Well of Lost Ideas]]></title>
+    <link href="http://kent.github.io/blog/2014/01/07/the-well-of-lost-ideas/"/>
+    <updated>2014-01-07T08:20:29-05:00</updated>
+    <id>http://kent.github.io/blog/2014/01/07/the-well-of-lost-ideas</id>
+    <content type="html"><![CDATA[<p>Did you invent it?  Did you come up with it?  Did you start it?  Really?</p>
+
+<p>Then where is it?  Show it to me.</p>
+
+<p>You can&rsquo;t can you?  Because that&rsquo;s all you did.  You thought, you talked, and you dreamed.  These are all good things, all very, very important things but you forgot the most important step.</p>
+
+<p>You forgot to <strong>build it</strong>.</p>
+
+<p>In 2009, <a href="http://twitter.com/acharoo">Charoo</a> and I built <a href="http://web.archive.org/web/20110202102412/http://viewpointr.com/">Viewpointr</a>.  It was ahead of its time and today, <a href="http://twitter.com/biz">Biz Stone</a> and co, launched <a href="jelly.co">Jelly.co</a>. They seem to have got it right&hellip; time will tell.</p>
+
+<p>Am I mad?  Hell no!  We tried.  We built it.  We even got <a href="http://twitter.com/marcusogawa">Ogawa</a> to fund it.  Does it hurt a little to see others succeed with an idea you had more than 5 years ago? Sure it does.  It stings a little, but not as much as it would sting if we hadn&rsquo;t tried.  If we hadn&rsquo;t of stuck our necks out there.</p>
+
+<p>When other people &lsquo;steal&rsquo; your ideas remember a few things.</p>
+
+<ul>
+<li>They were never your ideas</li>
+<li>Ideas are a dime a dozen, execution is where the dollars lie</li>
+<li>Some of your ideas must be good.  The next time one comes up, stop thinking, stop talking and start doing.</li>
+</ul>
+
+
+<p>If not, it will find its way into the well of lost ideas and that my friends&hellip; is a cold and lonely place.</p>
+
+<p>Have I told you lately&hellip; that I love you?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The End of Mediocrity]]></title>
+    <link href="http://kent.github.io/blog/2013/11/27/the-end-of-mediocrity/"/>
+    <updated>2013-11-27T08:27:09-05:00</updated>
+    <id>http://kent.github.io/blog/2013/11/27/the-end-of-mediocrity</id>
+    <content type="html"><![CDATA[<p>There are many credos, mantras, affirmations, culture speak, news speak and other forms of written communication all aimed at making you or the people around you better.</p>
+
+<p>These devices work.  Don&rsquo;t stop using them.</p>
+
+<p>Here is one to add to the list:  Stop making crappy things.</p>
+
+<p>Think of all the things that you do in a day and now consider how many of those things are meaningful, worthwhile, thoughtful, or remarkable.  My guess (and I am an optimist) is very few.</p>
+
+<p>I am guilty of this too.  I try to create beautiful and useful things.  Apps like <a href="http://mixr.ewakened.com">Mixr</a> and Cybrus.  Emails that are meaningful and unpretentious.  Blog posts that are short and the point.  Yet I fail.</p>
+
+<p>This kind of failure is OK, since it goes back to what Ira told us <a href="http://vimeo.com/24715531">about taste</a>.  You know you are capable of amazing things right? You know it&rsquo;s in you right?  If no one has told you that before, then let me be the first to tell you:  You have greatness in there, go let it out.  Just don&rsquo;t make anymore crap!</p>
+
+<p>If we all agreed to stop making crappy things and focused instead on things that we are proud of.  Things are beautiful and remarkable I think it would do more good than just about anything else I can think of.</p>
+
+<p>So long mediocristan.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Context Aware Computing is The Next Big Thing]]></title>
+    <link href="http://kent.github.io/blog/2013/11/23/context-aware-computing-is-the-next-big-thing/"/>
+    <updated>2013-11-23T08:25:40-05:00</updated>
+    <id>http://kent.github.io/blog/2013/11/23/context-aware-computing-is-the-next-big-thing</id>
+    <content type="html"><![CDATA[<iframe width="640" height="360" src="//www.youtube.com/embed/jUO7Qnmc8vE?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+
+
+<p><br/></p>
+
+<p>Back in my days at <a href="http://www.dgp.toronto.edu/">DGP</a> we would look at research done at Parc by Bill Schilit and his colleagues.  One of the most impressive experiments was the <a href="http://www.cs.colorado.edu/~rhan/CSCI_7143_001_Fall_2002/Papers/Want95_PARCTab.pdf">ParcTab</a>.</p>
+
+<p>Ideas like the ParcTab were ahead of their time.  Context and the pervasiveness of computing simply wasn&rsquo;t there.  If we were to re-run the ParcTab experiments today, it would be equivalent to carrying aroung your cell phone and having your environment change around you.  While this is possible, it&rsquo;s not practical.  In order to be pervasive, context must be decoupled from an active device.  Context needs to be passive and pervasive.</p>
+
+<p>Passive context is the missing link that we have been waiting for.  Not personalization, but true real world context.<br/>
+Who am I?
+Where am I?
+What do I like?
+What do I typically do, given the context that I am in.</p>
+
+<p>Devices like the <a href="http://www.getnymi.com/">Nymi</a> are the first steps towards passive context generators.  The biggest competitor to these kinds of devices is the cell phone.  Your phone is capable on generating the same context signals as the Nymi, but it&rsquo;s not passive.  You must pick up and interact with your cell phone in order to use it.  It&rsquo;s not a persistent and pervasive context generator.  It might be one day, but not for a while.  Until then, devices that provide context and decouple it from the user will win the day.</p>
+
+<p>I have a feeling that a lot of old research from Parc and other Ubicomp trail blazers will start to see the light of day as devices like the Nymi make it into the mainstream.  These are the devices that they were dreaming of back in the day, and now they are reality.</p>
+
+<p>What an exciting time to be a developer!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why I Still Think Dropbox Will Launch Email By Year End]]></title>
+    <link href="http://kent.github.io/blog/2013/09/24/why-i-still-think-dropbox-will-launch-email-by-year-end/"/>
+    <updated>2013-09-24T09:28:44-04:00</updated>
+    <id>http://kent.github.io/blog/2013/09/24/why-i-still-think-dropbox-will-launch-email-by-year-end</id>
+    <content type="html"><![CDATA[<p><img src="http://media.tumblr.com/0c500f425f964578f2daa98000b9815d/tumblr_inline_mt4de7XlsO1qzo1d1.jpg" alt="" /></p>
+
+<p>When Dropbox bought Mailbox I figured they were months away from launching an email service.  Turns out that didn&rsquo;t happen, but the gem of the idea must be there.</p>
+
+<p>Dropbox is poised to revolutionize email by killing attachments.</p>
+
+<p>If you don&rsquo;t believe me, just do a search for dropbox.com if your email client and look at how many times you have pasted a link in there, or someone has sent you one.</p>
+
+<p>I have over 500!</p>
+
+<p>I am also a power Dropbox user.  It was one of the most painless $50 / year I ever spent.  I got it, I love it.  I tell everyone to use it.</p>
+
+<p>We use Google Drive at work but it doesn&rsquo;t quite do it for me.  I was hoping that the big G could deliver a true G-Drive the way I was promised they would.  They didn&rsquo;t.  I love the big D (ya, I know).</p>
+
+<p>So what are they waiting for?  I have no idea to be honest.  It&rsquo;s not a marketing move, it&rsquo;s likely a feature / integration / polish move.</p>
+
+<p>This will be their first big software move outside of their core application since opening up the Dropbox API.  Which, if you think of it, was very smart for them internally since they are no doubt using it to build their email client.</p>
+
+<p>The client will run Mailbox software for sure and maybe do some things that we can&rsquo;t even think of yet&hellip; probably not.  I have some ideas for email, but no one seems able to do them.  Let&rsquo;s hope they surprise us.</p>
+
+<p>The big question is privacy and inertia.  I love Gmail and I hate Google sometimes.  I will likely never part from Gmail.  I know that the NSA&hellip; but truly I am cynical that any email service is truly protected from that.  I choose Google for a lot of reasons.  If Apple and iPhone dropped support for Gmail, I would become an Android user.</p>
+
+<p>However, being an early adopter I would checkout Dropbox Mail.  I would probably even love it, given the amount of time I spend sending and receiving Dropbox links.  Are there enough people like me out there?  Not sure.  I jiust can&rsquo;t help but think of Hotmail&rsquo;s brilliant email signature that is credited for getting them all their users.</p>
+
+<p>Dropbox&rsquo;s could look like</p>
+
+<p>+++
+Hate attachments?  We do too.  Start emailing without attachments at getmydbox.com</p>
+
+<p>The Ad campaign writes itself.</p>
+
+<blockquote><p>Buddha taught the world to drop attachments.  We listened.  DBox.  The first email without attachments.</p>
+
+<p>Email without attachments. Enlightened. via Dropbox.</p>
+
+<p>Drop attachments. Pickup Dbox.</p></blockquote>
+
+<p>Something like that.  @Drew, you can use that if you want.  All I ask is that you send me a T-Shirt.</p>
+
+<p>Peace and love.</p>
+
+<p>Kent</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[I am Not Afraid of Cannibals and Nazis]]></title>
+    <link href="http://kent.github.io/blog/2013/09/04/i-am-not-afraid-of-cannibals-and-nazis/"/>
+    <updated>2013-09-04T09:30:11-04:00</updated>
+    <id>http://kent.github.io/blog/2013/09/04/i-am-not-afraid-of-cannibals-and-nazis</id>
+    <content type="html"><![CDATA[<blockquote><p>Cannibals and Nazis didn&rsquo;t make Kolya nervous, but the threat of embarrassment did—the possibility that a stranger might laugh at the lines he&rsquo;d written.</p></blockquote>
+
+<p><a href="http://www.amazon.com/City-Thieves-Novel-David-Benioff/dp/0452295297">Benioff</a> is writing about <a href="http://sethgodin.typepad.com/seths_blog/2010/01/quieting-the-lizard-brain.html">the resistance</a> here, the fear of posting, the fear of sending, the fear of finishing, the fear of doing, the fear of action, the fear of judgement, the fear.</p>
+
+<p>Many would welcome death if it meant never being judged again.  Words, looks, silence can be terrifying.</p>
+
+<p>I have yet to find out what happens to our hero, but reading this passage, this beautiful manifestation of fear makes me want to finish.</p>
+
+<p>Acknowledge the fear, it means well and is only trying to protect you.  But there are no lions in the tall grass waiting for you, no cannibals around the corner.  Just you, your words, and that haunting blue button.</p>
+
+<p>Put the kettle on and hit publish on your way out.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What Bryan Cranston taught me at 4:00am]]></title>
+    <link href="http://kent.github.io/blog/2013/09/03/what-bryan-cranston-taught-me-at-4-00am/"/>
+    <updated>2013-09-03T09:32:11-04:00</updated>
+    <id>http://kent.github.io/blog/2013/09/03/what-bryan-cranston-taught-me-at-4-00am</id>
+    <content type="html"><![CDATA[<p><img src="http://media.tumblr.com/cfaf9773961d293983f2337c0ca4aecf/tumblr_inline_msj6ahSezE1qz4rgp.png" alt="" /></p>
+
+<p>&ldquo;Grab that cord will you&hellip; it&rsquo;s time to eat!&rdquo;</p>
+
+<p>Mark, the fat grip yelled at me as I starred blankly back.  It was 3:30am on a Wednesday in October and snow was falling all around me.  Well, it looked like snow but it certainly wasn&rsquo;t.  The texture was more like cotton and the flavour something like the coloured clip of a Bic clicky pencil.  Plastic.  Artificial.  I am on a movie set and someone, Mark, the fat grip thinks I belong here.</p>
+
+<p>&ldquo;Common let&rsquo;s go&hellip; prime rib.&rdquo;</p>
+
+<p>I have been coming here for the past two nights. Disney is filming a made for TV movie called Twas the Night starring Bryan Cranston a few doors down from me.  It&rsquo;s the year 2000, years before Walter White and Heisenberg.  Bryan is still Hal from Malcolm in The Middle and to me, he&rsquo;s Dr. Tim Whatley from Seinfeld.  I love Seinfeld and want to know everything about it.</p>
+
+<p>I pile into one of the trucks and head down to the church to eat with the crew.  The more I look around, the more I realize that Mark must know I don&rsquo;t really work here.  I am the youngest person in the truck by 15 years (I am only 15 myself but quite tall for my age).  I figure he is just letting me come along for the ride, letting me feel like I am working on a movie set&hellip; I like Mark.</p>
+
+<p>The church basement is full of crew by the time we get there and the food is quite delicious.  I don&rsquo;t really eat though, I am fixated on Bryan sitting a few tables over.  I am working up the nerve to sit beside him and chat but before I can, everyone starts getting up and we pile up back into the trucks to head back over to the Selley&rsquo;s driveway.</p>
+
+<p>The scene they are shooting is near the end of the movie, <a href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=5MIAGrCDtFI#t=4482">this one to be exact</a> and I am struck by the sheer size and complexity of movie making.  There are 20-30 crew members, 6 cast members, 6 stand-ins, fake snow, lights, a rigged car&hellip; and all of this for a made for TV movie that might be seen by 50,000 people at Christmas time in 2001.  It takes them 3 hours to shoot the 5 mins.  It&rsquo;s boring as hell, but I can&rsquo;t leave.</p>
+
+<p>My chance finally comes.  One of the gaffers yells that they are having a washing issue with one of the lights and in come the stand-ins and DP.  Bryan retires to the snack tent just off the driveway and grabs a cookie.  I seize the opportunity and strike up a conversation.</p>
+
+<p>Bryan is one of the easiest people to take to.  He asks me about school, asks me why I am here so late.  Tells me how much he loves my neighbourhood and all the trees.  Before I know it, we have been talking for 5 minutes and I haven&rsquo;t asked him a single question.  Finally, I jump in and say, &ldquo;What was it like working with Seinfeld?&rdquo;  He laughs and says it was a great learning experience for him. He says that Jerry is exactly like he is on the show and one of the nicest people he has ever met, that Julia and Jason are the funniest on set and that Michael is actually very quiet and nothing like he imagined.</p>
+
+<p>I tell him that I loved his character and wished he had of made it into the series finale.  He told me that he did tape it, but in the end it ran long and there were too many good stories on the show that the converted Jewish dentist didn&rsquo;t make the cut&hellip; we were both disappointed.</p>
+
+<p>I asked him what he was going to do next?  Was he trying to get into movies or did he like TV better?  I have never forgotten what he told me, and while I wrote it down when I got home, I lost the original sometime during one of my moves.  Here is what I remember him telling me.</p>
+
+<p>&ldquo;I really don&rsquo;t know what I am going to do next and for once that doesn&rsquo;t worry me.  When I was your age, I was worried.  I wanted to do this and do that, I had plans.  I don&rsquo;t think like that anymore.  I am proud of my career.  I like where I am at.  I have dreams sure, but I don&rsquo;t worry about them.  I try and do good work and take things as they come.  I love Malcolm in the Middle and am having fun.  If we are canceled next year, I will find something else to do and if we go on for ten years, that would be great too.  I kinda dodged the question didn&rsquo;t I?  I love my job, I get to talk to people like you, visit places like Canada and get paid to eat cookies.&rdquo;  He laughed.</p>
+
+<p>I can&rsquo;t remember what else we talked about after that.  It was time for him to go and they were changing up one of his lines.  He had to mention to milk and cookies now.</p>
+
+<p>You can imagine my delight when I saw Breaking Bad.  Bryan has said multiple times that Walter White is the role of his life.</p>
+
+<p>So have dreams, for sure, yes, have them.  But don&rsquo;t worry about them.  Do good work everyday and take things as they come and one day, you will find yourself in the role of your life too.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why No One Will Read Your Thesis]]></title>
+    <link href="http://kent.github.io/blog/2009/08/14/why-no-one-will-read-your-thesis/"/>
+    <updated>2009-08-14T09:23:55-04:00</updated>
+    <id>http://kent.github.io/blog/2009/08/14/why-no-one-will-read-your-thesis</id>
+    <content type="html"><![CDATA[<p>I am in the final stages of finishing my masters thesis under the supervision of Ron Baecker. Together, over the course of nearly two years, Ron and I, with the help of many others have created Friend Forecaster, a context-aware system designed to help you remember people’s names. I am very proud, relieved and excited to be finished my masters, however, as I sit here and finish the last two or three pages I can’t help but wonder who will ever read it.</p>
+
+<p>I have come to the conclusion that people will read it, in fact, I have received feedback from a few people about the Work in Progress that we submitted the CHI 09 which is awesome, but I know that a lot of people won’t read it and I think I know why.</p>
+
+<p>Research doesn’t make itself accessible to a broader audience nor does it care to.</p>
+
+<p>I don’t understand why this is. The whole idea is to spread around knowledge, get people thinking and hopefully motivate them to help you, confirm your finding, prove you wrong or just use it as a starting point for a great discussion. Either way, primary literature doesn’t do this very well. Especially not a Masters thesis. I don’t know how mine stacks up to other’s but it’s weighing in at around 95 pages without appendices… not what I would call afternoon reading. Also, it’s written in a style that I do not enjoying writing in… it’s technical not personal, however my research is both technical and personal. I feel as though we are doing a disservice to the world by making research so dry and robotic. I feel that research should be written conversationally as well as well as technically, by the author, from the source.</p>
+
+<p>Ron laughed when I handed in my first draft several months ago as it was very casual and not very scientific to be nice. In fact, Ron had some choice words about my writing style, which I actually took as a compliment since my intention is not to continue to write papers that only 1% of the population can learn from. Beleive me, I don’t want you to read my work, or even care about it because it might be for you, however, I am sure that there does exist research out there that would inspire you. That would stir up feelings of passion, motivation and desire to learn more. This is what research should be.</p>
+
+<p>Many well established writers and scientific authors totally disagree and for good reason. Primary literature needs to be scientific and unambiguous so that results and claims can be judges objectively and repeated to be confirmed or refuted. This is the scientific machine at its results speak for themselves! Academic purists will argue that its the job of journalists, secondary literature authors, the media even bloggers to be the social filter that good research passes through. This will leave the academics more time to write papers and less time worrying about telling a good story.</p>
+
+<p>Here’s what I propose.</p>
+
+<p>Each academic paper, thesis, dissertation etc. should be written in two parts: One formal and one informal. The formal part will be exactly what it is today: a carefully crafted, concise collection of words. The informal piece should be any form of creative writing. Something inspirational, funny, down to earth or whatever suits your needs. I have been trying to sum up my thesis into a Limerick or Haiku poem… so far I haven’t done it, but I will and those words might be more lasting than my 95 page thesis.</p>
+
+<p>There is a time and place for scientific writing, however, the more casual the words are, the more human the intention. Humanity and humility are powerful literary devices and could do a world of good for the colder academic community.</p>
+
+<p>Thank you,</p>
+
+<p>Kent</p>
+]]></content>
+  </entry>
   
 </feed>
