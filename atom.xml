@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kent.github.io/atom.xml" rel="self"/>
   <link href="http://kent.github.io/"/>
-  <updated>2015-03-19T13:11:38-04:00</updated>
+  <updated>2015-03-19T14:49:28-04:00</updated>
   <id>http://kent.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Well of Lost Ideas]]></title>
-    <link href="http://kent.github.io/blog/2014/01/07/the-well-of-lost-ideas/"/>
+    <link href="http://kent.github.io/the-well-of-lost-ideas/"/>
     <updated>2014-01-07T08:20:29-05:00</updated>
-    <id>http://kent.github.io/blog/2014/01/07/the-well-of-lost-ideas</id>
+    <id>http://kent.github.io/the-well-of-lost-ideas</id>
     <content type="html"><![CDATA[<p>Did you invent it?  Did you come up with it?  Did you start it?  Really?</p>
 
 <p>Then where is it?  Show it to me.</p>
@@ -47,9 +47,9 @@
   
   <entry>
     <title type="html"><![CDATA[The End of Mediocrity]]></title>
-    <link href="http://kent.github.io/blog/2013/11/27/the-end-of-mediocrity/"/>
+    <link href="http://kent.github.io/the-end-of-mediocrity/"/>
     <updated>2013-11-27T08:27:09-05:00</updated>
-    <id>http://kent.github.io/blog/2013/11/27/the-end-of-mediocrity</id>
+    <id>http://kent.github.io/the-end-of-mediocrity</id>
     <content type="html"><![CDATA[<p>There are many credos, mantras, affirmations, culture speak, news speak and other forms of written communication all aimed at making you or the people around you better.</p>
 
 <p>These devices work.  Don&rsquo;t stop using them.</p>
@@ -70,9 +70,9 @@
   
   <entry>
     <title type="html"><![CDATA[Context Aware Computing is The Next Big Thing]]></title>
-    <link href="http://kent.github.io/blog/2013/11/23/context-aware-computing-is-the-next-big-thing/"/>
+    <link href="http://kent.github.io/context-aware-computing-is-the-next-big-thing/"/>
     <updated>2013-11-23T08:25:40-05:00</updated>
-    <id>http://kent.github.io/blog/2013/11/23/context-aware-computing-is-the-next-big-thing</id>
+    <id>http://kent.github.io/context-aware-computing-is-the-next-big-thing</id>
     <content type="html"><![CDATA[<iframe width="640" height="360" src="//www.youtube.com/embed/jUO7Qnmc8vE?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
 
 
@@ -98,9 +98,9 @@ What do I typically do, given the context that I am in.</p>
   
   <entry>
     <title type="html"><![CDATA[Why I Still Think Dropbox Will Launch Email By Year End]]></title>
-    <link href="http://kent.github.io/blog/2013/09/24/why-i-still-think-dropbox-will-launch-email-by-year-end/"/>
+    <link href="http://kent.github.io/why-i-still-think-dropbox-will-launch-email-by-year-end/"/>
     <updated>2013-09-24T09:28:44-04:00</updated>
-    <id>http://kent.github.io/blog/2013/09/24/why-i-still-think-dropbox-will-launch-email-by-year-end</id>
+    <id>http://kent.github.io/why-i-still-think-dropbox-will-launch-email-by-year-end</id>
     <content type="html"><![CDATA[<p><img src="http://media.tumblr.com/0c500f425f964578f2daa98000b9815d/tumblr_inline_mt4de7XlsO1qzo1d1.jpg" alt="" /></p>
 
 <p>When Dropbox bought Mailbox I figured they were months away from launching an email service.  Turns out that didn&rsquo;t happen, but the gem of the idea must be there.</p>
@@ -148,9 +148,9 @@ Hate attachments?  We do too.  Start emailing without attachments at getmydbox.c
   
   <entry>
     <title type="html"><![CDATA[I am Not Afraid of Cannibals and Nazis]]></title>
-    <link href="http://kent.github.io/blog/2013/09/04/i-am-not-afraid-of-cannibals-and-nazis/"/>
+    <link href="http://kent.github.io/i-am-not-afraid-of-cannibals-and-nazis/"/>
     <updated>2013-09-04T09:30:11-04:00</updated>
-    <id>http://kent.github.io/blog/2013/09/04/i-am-not-afraid-of-cannibals-and-nazis</id>
+    <id>http://kent.github.io/i-am-not-afraid-of-cannibals-and-nazis</id>
     <content type="html"><![CDATA[<blockquote><p>Cannibals and Nazis didn&rsquo;t make Kolya nervous, but the threat of embarrassment did—the possibility that a stranger might laugh at the lines he&rsquo;d written.</p></blockquote>
 
 <p><a href="http://www.amazon.com/City-Thieves-Novel-David-Benioff/dp/0452295297">Benioff</a> is writing about <a href="http://sethgodin.typepad.com/seths_blog/2010/01/quieting-the-lizard-brain.html">the resistance</a> here, the fear of posting, the fear of sending, the fear of finishing, the fear of doing, the fear of action, the fear of judgement, the fear.</p>
@@ -167,9 +167,9 @@ Hate attachments?  We do too.  Start emailing without attachments at getmydbox.c
   
   <entry>
     <title type="html"><![CDATA[What Bryan Cranston taught me at 4:00am]]></title>
-    <link href="http://kent.github.io/blog/2013/09/03/what-bryan-cranston-taught-me-at-4-00am/"/>
+    <link href="http://kent.github.io/what-bryan-cranston-taught-me-at-4-00am/"/>
     <updated>2013-09-03T09:32:11-04:00</updated>
-    <id>http://kent.github.io/blog/2013/09/03/what-bryan-cranston-taught-me-at-4-00am</id>
+    <id>http://kent.github.io/what-bryan-cranston-taught-me-at-4-00am</id>
     <content type="html"><![CDATA[<p><img src="http://media.tumblr.com/cfaf9773961d293983f2337c0ca4aecf/tumblr_inline_msj6ahSezE1qz4rgp.png" alt="" /></p>
 
 <p>&ldquo;Grab that cord will you&hellip; it&rsquo;s time to eat!&rdquo;</p>
@@ -206,9 +206,9 @@ Hate attachments?  We do too.  Start emailing without attachments at getmydbox.c
   
   <entry>
     <title type="html"><![CDATA[Why No One Will Read Your Thesis]]></title>
-    <link href="http://kent.github.io/blog/2009/08/14/why-no-one-will-read-your-thesis/"/>
+    <link href="http://kent.github.io/why-no-one-will-read-your-thesis/"/>
     <updated>2009-08-14T09:23:55-04:00</updated>
-    <id>http://kent.github.io/blog/2009/08/14/why-no-one-will-read-your-thesis</id>
+    <id>http://kent.github.io/why-no-one-will-read-your-thesis</id>
     <content type="html"><![CDATA[<p>I am in the final stages of finishing my masters thesis under the supervision of Ron Baecker. Together, over the course of nearly two years, Ron and I, with the help of many others have created Friend Forecaster, a context-aware system designed to help you remember people’s names. I am very proud, relieved and excited to be finished my masters, however, as I sit here and finish the last two or three pages I can’t help but wonder who will ever read it.</p>
 
 <p>I have come to the conclusion that people will read it, in fact, I have received feedback from a few people about the Work in Progress that we submitted the CHI 09 which is awesome, but I know that a lot of people won’t read it and I think I know why.</p>
